@@ -2,5 +2,7 @@
 
 To start project run below commands:
 
+```
 npm install; npm start;
+```
 
