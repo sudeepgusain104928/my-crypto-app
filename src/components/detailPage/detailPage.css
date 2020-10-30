@@ -1,0 +1,78 @@
+.headingContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 1.3rem;
+  align-content: center;
+  border-bottom-style: dotted;
+  margin-bottom: 1.5rem;
+}
+
+.headingContainer h1 {
+  display: inline-block;
+  font-size: 2.5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  text-shadow: 10px 10px 10px grey;
+}
+
+.headingContainer img {
+  width: 2.8rem;
+}
+
+.paper {
+  text-align: center;
+  box-shadow: 10px 10px 10px grey;
+  padding: 1rem;
+  border-bottom-style: solid;
+  border-color: black;
+}
+
+.paperHeadings {
+  font-size: 1.1rem;
+  font-weight: bold;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+}
+.paperValues {
+  font-size: 1.1rem;
+}
+
+.grid {
+  margin-bottom: 2rem;
+}
+
+.description {
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.description p {
+  font-size: 1rem;
+}
+
+.description h3 {
+  font-size: 1.3rem;
+}
+.priceTrendHeading {
+  font-size: 1.5rem;
+  text-align: center;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.dropdownContainer {
+  text-align: center;
+  margin: 0 auto;
+  margin-bottom: 1.5rem;
+}
+.dropdown {
+  font-size: 1rem;
+}
+
+.graph {
+  width: 100%;
+  height: 80vh;
+  margin-bottom: 1.5rem;
+}
